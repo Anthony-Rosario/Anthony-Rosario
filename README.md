@@ -13,13 +13,13 @@ I am a Backend-leaning Full Stack Software Developer aiming to better connect th
 
 ---
 
-
-Tech Stack:</br>
-⊹ Languages: JavaScript, HTML5, CSS, Solidity</br>
-⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle</br>
-⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI</br>
-⊹ Databases: PostgreSQL</br>
-⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio</br>
+&nbsp;
+Tech Stack:
+⊹ Languages: JavaScript, HTML5, CSS, Solidity
+⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle
+⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI
+⊹ Databases: PostgreSQL
+⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio
 
 ---
 
