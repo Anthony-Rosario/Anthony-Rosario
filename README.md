@@ -16,5 +16,5 @@ Tech Stack:
 ⊹ Databases: PostgreSQL</br>
 ⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio</br>
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Rosario)](https://github.com/Anthony-Rosario/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Rosario&theme=vision-friendly-dark)](https://github.com/Anthony-Rosario/github-readme-stats)
 
