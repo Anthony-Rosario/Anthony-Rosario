@@ -1,5 +1,6 @@
-<div align='center'>BRB
-### Hello there traveler 👋 and welcome to my Github lair 🐉
+<div align='center'>BRB</div>
+<div align='center'>
+###Hello there traveler 👋 and welcome to my Github lair 🐉
 
 I am a Backend-leaning Full Stack Software Developer aiming to better connect the world around me.</div>
 
