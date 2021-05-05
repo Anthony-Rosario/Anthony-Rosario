@@ -9,11 +9,12 @@ I am a Backend-leaning Full Stack Software Developer aiming to better connect th
 
 ---
 
-<div align='center'>Tech Stack:</div>
-<p align='justify, center'>⊹ Languages: JavaScript, HTML5, CSS, Solidity</br>
+Tech Stack:
+⊹ Languages: JavaScript, HTML5, CSS, Solidity</br>
 ⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle</br>
 ⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI</br>
 ⊹ Databases: PostgreSQL</br>
-⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio</br></p>
+⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio</br>
 
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Rosario)](https://github.com/Anthony-Rosario/github-readme-stats)
 
