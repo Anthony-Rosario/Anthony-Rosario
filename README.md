@@ -28,5 +28,5 @@ Tech Stack:
 
 ---
 
-Contact: 
-<a href='https://www.linkedin.com/in/anthony-rosario'>LinkedIn</a>
+Contact:</br>
+<a href='https://www.linkedin.com/in/anthony-rosario'>LinkedIn</a> + <a href='https://twitter.com/discountkarate'>Twitter</a> + <a href='mailto: anthonymrosario225@gmail.com'>Email</a>
