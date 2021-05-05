@@ -29,4 +29,4 @@ Tech Stack:
 ---
 
 Contact: 
-<a href='www.linkedin.com/in/anthony-rosario'>LinkedIn</a>
+<a href='https://www.linkedin.com/in/anthony-rosario'>LinkedIn</a>
