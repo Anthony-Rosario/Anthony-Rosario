@@ -10,7 +10,7 @@ I am a Backend-leaning Full Stack Software Developer aiming to better connect th
 ---
 
 <div align='center'>Tech Stack:</div>
-<p align='justify'>⊹ Languages: JavaScript, HTML5, CSS, Solidity</br>
+<p align='justify center'>⊹ Languages: JavaScript, HTML5, CSS, Solidity</br>
 ⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle</br>
 ⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI</br>
 ⊹ Databases: PostgreSQL</br>
