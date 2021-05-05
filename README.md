@@ -27,6 +27,8 @@ Tech Stack:
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Rosario&theme=vision-friendly-dark)](https://github.com/Anthony-Rosario/github-readme-stats)
 
 ---
+<div align='center>
+            Contact:</div></br>
 
-Contact:</br>
-<a href='https://www.linkedin.com/in/anthony-rosario'>LinkedIn</a> + <a href='https://twitter.com/discountkarate'>Twitter</a> + <a href='mailto: anthonymrosario225@gmail.com'>Email</a>
+<div align='center>
+<a href='https://www.linkedin.com/in/anthony-rosario'>LinkedIn</a>     +     <a href='https://twitter.com/discountkarate'>Twitter</a>     +     <a href='mailto: anthonymrosario225@gmail.com'>Email</a></div>
