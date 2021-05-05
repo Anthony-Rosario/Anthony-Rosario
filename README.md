@@ -14,7 +14,7 @@ I am a Backend-leaning Full Stack Software Developer aiming to better connect th
 ---
 
 
-Tech Stack:
+Tech Stack:</br>
 ⊹ Languages: JavaScript, HTML5, CSS, Solidity</br>
 ⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle</br>
 ⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI</br>
