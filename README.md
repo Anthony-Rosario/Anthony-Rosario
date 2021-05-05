@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Anthony-Rosario/Anthony-Rosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-Rosario)](https://github.com/Anthony-Rosario/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Anthony-Rosario8&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/Anthony-Rosario/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/aramirezdecruz3148/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on ...
