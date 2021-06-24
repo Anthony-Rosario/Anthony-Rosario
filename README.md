@@ -16,10 +16,10 @@ Avid Tinkerer/Pro Skater in my heart.</div>
 
 Tech Stack: </br>
 ⊹ Languages: JavaScript, HTML5, CSS, Solidity </br>
-⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle </br>
-⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI </br>
-⊹ Databases: PostgreSQL </br>
-⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio </br>
+⊹ Libraries: React, Express, Node.js, Slack Bolt, Truffle, p5.js, Matter.js, Socket.io </br>
+⊹ Testing Suites: Jest, QUnit, Supertest, GitHub CI, MSW </br>
+⊹ Databases: PostgreSQL, AWS </br>
+⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, pgAdmin, Twilio </br>
 
 ---
 
