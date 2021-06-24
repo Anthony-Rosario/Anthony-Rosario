@@ -2,7 +2,7 @@
 <div align='center'>
 Hello there traveler 👋 and welcome to my Github lair 🐉
 
-Avid Tinkerer/Pro skate in my heart.</div>
+Avid Tinkerer/Pro Skater in my heart.</div>
 
 
 ---
