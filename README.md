@@ -1,8 +1,8 @@
-<div align='center'>BRB</div>
+
 <div align='center'>
 Hello there traveler 👋 and welcome to my Github lair 🐉
 
-I am a Backend-leaning Full Stack Software Developer aiming to better connect the world around me.</div>
+Avid Tinkerer/Pro skate in my heart.</div>
 
 
 ---
